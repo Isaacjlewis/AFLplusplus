@@ -4,7 +4,7 @@
 #include <types.h>
 #include <cmplog.h>
 #include <xxhash.h>
-#include <stdlib.>
+#include <stdlib.h>
 #include "map.h"
 
 #include "cmp-functions.h"
