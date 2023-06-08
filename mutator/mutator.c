@@ -22,6 +22,6 @@ size_t afl_custom_fuzz(void* udata, unsigned char *buf, size_t buf_size, unsigne
   return 0;
 }
 
-void afl_custom_deinit(Angora* kale){
+void afl_custom_deinit(void* kale){
   
 }
